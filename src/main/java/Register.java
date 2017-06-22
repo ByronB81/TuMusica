@@ -1,10 +1,10 @@
 import java.text.DecimalFormat;
 
 public class Register {
-  private double total = 0.00;
+  private Double total = 0.00;
 
-  public double registerReport() {
-    // int decimalTotal = decimalFormat(total);
+  public Double registerReport() {
+    // String formattedTotal = total.decimalFormat();
     return total;
   }
 

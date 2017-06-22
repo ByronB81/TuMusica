@@ -4,7 +4,7 @@ public class App {
     System.out.println("\nTu Musica\n");
 
     double registerTotal = register1.registerReport();
-    System.out.println(registerTotal);
+    System.out.println(registerTotal;
 
   }
 }
